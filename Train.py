@@ -13,7 +13,7 @@ class ModelTraining():
     def save_model(self):
         model_path = Path('Model')
         model_path.mkdir(parents=True, exist_ok=True)
-        model_file_name = 'linearRelu.pth'
+        model_file_name = 'model.pth'
         file_path = model_path/model_file_name
         torch.save(self.model, file_path)
 
