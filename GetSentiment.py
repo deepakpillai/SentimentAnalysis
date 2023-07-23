@@ -1,3 +1,4 @@
+import tensorflow
 import tensorflow_hub as hub
 import torch
 from pathlib import Path
