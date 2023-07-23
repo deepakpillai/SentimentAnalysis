@@ -27,7 +27,7 @@ class GetSentiment:
     def load_model(self):
         model_path = Path('Model')
         model_path.mkdir(parents=True, exist_ok=True)
-        model_file_name = 'linearRelu.pth'
+        model_file_name = 'model.pth'
         file_path = model_path / model_file_name
         return torch.load(file_path)
 
