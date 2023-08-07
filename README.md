@@ -16,7 +16,7 @@ I used universal sentence encoder from TensorFlow to get better and more meaning
 Thank you Kaggle for the dataset
 
 https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
-
+ 
 ### Result:-
 <img align="left" src="https://github.com/deepakpillai/SentimentAnalysis/blob/main/Result.jpg?raw=true" />
 
