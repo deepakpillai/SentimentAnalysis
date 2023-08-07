@@ -3,7 +3,7 @@ Objective:- Create a Natural Language Processing (NLP) solution to do sentiment 
 
 ### Approach:-
 - Use bidirectional LSTM followed by a dense layer. 
-- Activation function:- ReLU, 
+- Activation function:- ReLU 
 - Loss function:- CrossEntropyLoss
 - Optimization function:- Adam
 - Framework:- Pytorch
