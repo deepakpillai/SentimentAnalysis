@@ -8,7 +8,7 @@ Objective:- Create a Natural Language Processing (NLP) solution to do sentiment 
 - Optimization function:- Adam
 - Framework:- Pytorch
 - Text encoder: universal sentence encoder (https://tfhub.dev/google/universal-sentence-encoder-large/5)
--I used universal sentence encoder from TensorFlow to get better and more meaningful contextual embeddings
+I used universal sentence encoder from TensorFlow to get better and more meaningful contextual embeddings
 
 ### Dataset:-
 Thank you Kaggle for the dataset
