@@ -1,7 +1,7 @@
 # SentimentAnalysis
 Objective:- Create a Natural Language Processing (NLP) solution to do sentiment analysis
 
-Approach:-
+## Approach:-
 Use bidirectional LSTM followed by a dense layer. 
 Activation function:- ReLU, 
 Loss function:- CrossEntropyLoss
@@ -11,8 +11,8 @@ Text encoder: universal sentence encoder (https://tfhub.dev/google/universal-sen
 
 I used universal sentence encoder from TensorFlow to get better and more meaningful contextual embeddings
 
-Dataset:-
+## Dataset:-
 https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
 
-ResultL-
+## ResultL-
 <img align="left" src="https://github.com/deepakpillai/SentimentAnalysis/blob/main/Result.jpg?raw=true" />
